@@ -76,10 +76,3 @@ for i in u_labels:
 
 plt.legend()
 plt.show()
-
-"""I used these websites 
-
-https://www.askpython.com/python/examples/plot-k-means-clusters-python
-
-https://medium.com/@blazetamareborn/practicing-clustering-techniques-on-survey-dataset-f7d7a322e6ff
-"""
